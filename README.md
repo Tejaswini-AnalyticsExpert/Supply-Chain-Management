@@ -7,9 +7,8 @@ This repository contains a Jupyter Notebook designed to track supplier complianc
 ## 1. Item_Level_Year-over-Year Compliance Status
 
 - Performs a detailed, per-record analysis of all suppliers.  
-- Determines the current compliance status based on receipt of the latest **846 Inventory Data**.  
-- Provides overall compliance rates and highlights suppliers who have **stopped sending data**.  
-- Steps covered: **1–6** in the notebook, including data loading, parsing, classification, and visualization.  
+- Determines the current compliance status based on receipt of the latest **846, 852**.  
+- Provides overall compliance rates and highlights suppliers who have **stopped sending data**.    
 
 ---
 
